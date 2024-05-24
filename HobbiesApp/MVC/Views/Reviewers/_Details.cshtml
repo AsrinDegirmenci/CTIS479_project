@@ -1,0 +1,44 @@
+﻿@model ReviewerModel
+
+<h4>Reviewer</h4>
+<hr />
+<dl class="row">
+    <dt class="col-2">
+        @Html.DisplayNameFor(model => model.FullNameOutput)
+    </dt>
+    <dd class="col-10">
+        @Html.DisplayFor(model => model.FullNameOutput)
+    </dd>
+</dl>
+<dl class="row">
+    <dt class="col-2">
+        @Html.DisplayNameFor(model => model.ReleaseDateOutput)
+    </dt>
+    <dd class="col-10">
+        @Html.DisplayFor(model => model.ReleaseDateOutput)
+    </dd>
+</dl>
+<dl class="row">
+    <dt class="col-2">
+        @Html.DisplayNameFor(model => model.IsReviewingOutput)
+    </dt>
+    <dd class="col-10">
+        @Html.DisplayFor(model => model.IsReviewingOutput)
+    </dd>
+</dl>
+<dl class="row">
+    <dt class="col-2">
+        @Html.DisplayNameFor(model => model.ScoreOutput)
+    </dt>
+    <dd class="col-10">
+        @Html.DisplayFor(model => model.ScoreOutput)
+    </dd>
+</dl>
+<dl class="row">
+    <dt class="col-2">
+        @Html.DisplayNameFor(model => model.HobbyNamesOutput)
+    </dt>
+    <dd class="col-10">
+        @Html.Raw(Model.HobbyNamesOutput)
+    </dd>
+</dl>

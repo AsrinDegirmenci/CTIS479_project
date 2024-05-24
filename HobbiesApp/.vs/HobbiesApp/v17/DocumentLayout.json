@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D6C5-1F53-45C1-804F-A319D350D731}|MVC\\MVC.csproj|c:\\users\\administrator\\source\\repos\\hobbiesapp\\mvc\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D6C5-1F53-45C1-804F-A319D350D731}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D6C5-1F53-45C1-804F-A319D350D731}|MVC\\MVC.csproj|c:\\users\\administrator\\source\\repos\\hobbiesapp\\mvc\\views\\favorites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9265D6C5-1F53-45C1-804F-A319D350D731}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\favorites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D6C5-1F53-45C1-804F-A319D350D731}|MVC\\MVC.csproj|c:\\users\\administrator\\source\\repos\\hobbiesapp\\mvc\\controllers\\reviewerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D6C5-1F53-45C1-804F-A319D350D731}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\reviewerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C432DA2-D36C-4A97-BA81-6F9357FAEFE8}|Business\\Business.csproj|c:\\users\\administrator\\source\\repos\\hobbiesapp\\business\\models\\favoritemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C432DA2-D36C-4A97-BA81-6F9357FAEFE8}|Business\\Business.csproj|solutionrelative:business\\models\\favoritemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D6C5-1F53-45C1-804F-A319D350D731}|MVC\\MVC.csproj|c:\\users\\administrator\\source\\repos\\hobbiesapp\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9265D6C5-1F53-45C1-804F-A319D350D731}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1974EB3A-DED9-4C53-9A8E-91C34759F1BD}|DataAccess\\DataAccess.csproj|c:\\users\\administrator\\source\\repos\\hobbiesapp\\dataaccess\\entities\\hobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1974EB3A-DED9-4C53-9A8E-91C34759F1BD}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\hobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C432DA2-D36C-4A97-BA81-6F9357FAEFE8}|Business\\Business.csproj|c:\\users\\administrator\\source\\repos\\hobbiesapp\\business\\models\\hobbymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C432DA2-D36C-4A97-BA81-6F9357FAEFE8}|Business\\Business.csproj|solutionrelative:business\\models\\hobbymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C432DA2-D36C-4A97-BA81-6F9357FAEFE8}|Business\\Business.csproj|c:\\users\\administrator\\source\\repos\\hobbiesapp\\business\\services\\hobbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C432DA2-D36C-4A97-BA81-6F9357FAEFE8}|Business\\Business.csproj|solutionrelative:business\\services\\hobbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewersController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\MVC\\Controllers\\ReviewersController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\ReviewersController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\MVC\\Controllers\\ReviewersController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\ReviewersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:10:10.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MVC",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T21:57:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hobby.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\DataAccess\\Entities\\Hobby.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Hobby.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\DataAccess\\Entities\\Hobby.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Hobby.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:46:26.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FavoriteModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\Business\\Models\\FavoriteModel.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\FavoriteModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\Business\\Models\\FavoriteModel.cs",
+              "RelativeToolTip": "Business\\Models\\FavoriteModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:20:16.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\MVC\\Views\\Favorites\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Favorites\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\MVC\\Views\\Favorites\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Favorites\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T21:44:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HobbyModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\Business\\Models\\HobbyModel.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\HobbyModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\Business\\Models\\HobbyModel.cs",
+              "RelativeToolTip": "Business\\Models\\HobbyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:38:30.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HobbyService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\Business\\Services\\HobbyService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\HobbyService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\Business\\Services\\HobbyService.cs",
+              "RelativeToolTip": "Business\\Services\\HobbyService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:35:01.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\MVC\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HobbiesApp\\MVC\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\FavoritesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:29:24.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

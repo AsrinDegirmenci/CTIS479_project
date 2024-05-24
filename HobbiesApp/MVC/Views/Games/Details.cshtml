@@ -1,0 +1,48 @@
+﻿@model GamesModel
+@*Generated from Custom Template.*@
+@*Model namespace using directive should be added to _ViewImports.cshtml.*@
+
+@{
+    ViewData["Title"] = "Games Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h4>Games</h4>
+    <hr />
+        <dl class="row">
+            <dt class="col-2">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-2">
+                @Html.DisplayNameFor(model => model.GameCountOutput)
+            </dt>
+            <dd class="col-10">
+                @Html.DisplayFor(model => model.GameCountOutput)
+            </dd>
+        </dl>
+    @if (Model.GameCountOutput > 0)
+    {
+        <dl class="row">
+            <dt class="col-2">
+                @Html.DisplayNameFor(model => model.GameNamesOutput)
+            </dt>
+            <dd class="col-10">
+                @Html.Raw( Model.GameNamesOutput)
+            </dd>
+        </dl>
+    }
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>&nbsp;|&nbsp;
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+
